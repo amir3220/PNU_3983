@@ -32,3 +32,6 @@ txt[] = "AAAAAAAAAAAAAAAAAB";
 pat[] = "AAAAB";
 
 The number of comparisons in the worst case is O(m*(n-m+1)). Although strings which have repeated characters are not likely to appear in English text, they may well occur in other applications (for example, in binary texts). The KMP matching algorithm improves the worst case to O(n). We will be covering KMP in the next post. Also, we will be writing more posts to cover all pattern searching algorithms and data structures.
+
+#Related Teching Websites
+https://blog.faradars.org/naive-algorithm-for-pattern-searching/
